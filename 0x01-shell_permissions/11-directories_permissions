@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod  ugo+rwx /alx-system_engineering-devops/0x01-shell_permissions
+sudo chmod  rwxr-xr-x /alx-system_engineering-devops/0x01-shell_permissions
