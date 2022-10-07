@@ -1,2 +1,2 @@
- #!/bin/bash 
- chmod [ugoo] hello
+#!/bin/bash
+chmod [ugoo] hello
