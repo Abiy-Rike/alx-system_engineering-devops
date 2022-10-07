@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod  rwxr-xr-x /alx-system_engineering-devops/0x01-shell_permissions
+sudo find /alx-system_engineering-devops/0x01-shell_permissions -type d -exec chmod 755 {} \
